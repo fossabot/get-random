@@ -1,4 +1,5 @@
 ## getRandom [![Build Status](https://www.travis-ci.org/isLishude/get-random.svg?branch=master)](https://www.travis-ci.org/isLishude/get-random)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FisLishude%2Fget-random.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FisLishude%2Fget-random?ref=badge_shield)
 a simple lib to get random number or string 
 
 ## Usage
@@ -30,3 +31,5 @@ Random.getSafer()
 
 ## license
 MIT
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FisLishude%2Fget-random.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FisLishude%2Fget-random?ref=badge_large)
